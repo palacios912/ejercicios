@@ -1,0 +1,15 @@
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\bin\Debug\net6.0\ejercicio parte 4.exe
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\bin\Debug\net6.0\ejercicio parte 4.deps.json
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\bin\Debug\net6.0\ejercicio parte 4.runtimeconfig.json
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\bin\Debug\net6.0\ejercicio parte 4.dll
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\bin\Debug\net6.0\ejercicio parte 4.pdb
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.csproj.AssemblyReference.cache
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.AssemblyInfoInputs.cache
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.AssemblyInfo.cs
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.csproj.CoreCompileInputs.cache
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.dll
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\refint\ejercicio parte 4.dll
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.pdb
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ejercicio parte 4.genruntimeconfig.cache
+C:\Users\lucaspalacios\Documents\practicas 2022 csharp\bootcamp\ejercicio parte 4\ejercicio parte 4\obj\Debug\net6.0\ref\ejercicio parte 4.dll
